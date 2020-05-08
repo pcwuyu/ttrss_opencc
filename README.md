@@ -1,12 +1,6 @@
 # ttrss-opencc
 Conversion between Traditional and Simplified Chinese via OpenCC for ttrss
 
-This plugin is still a WIP:
-
-- I'm still solving the issue [#1](https://github.com/HenryQW/ttrss_opencc/issues/1) , so that it can run locally with your ttrss 
-- Demo instances (availability is **not** guaranteed): [https://opencc.henry.wang](https://opencc.henry.wang) or [http://opencc2.henry.wang](http://opencc2.henry.wang)
-
-
 ## Deploy your own OpenCC API Server
 
 ```
